@@ -1,0 +1,3 @@
+public class deneme{
+  private int counter = 0;
+}
